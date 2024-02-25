@@ -2,13 +2,13 @@ import React from "react";
 import Marquee from "react-fast-marquee";
 
 const logos = [
-  "/images/partners/apple-pay.png",
-  "/images/partners/dhl.png",
-  "/images/partners/ebay.png",
-  "/images/partners/imdb.png",
-  "/images/partners/apple-pay.png",
-  "/images/partners/dhl.png",
-  "/images/partners/ebay.png",
+  "./images/partners/apple-pay.png",
+  "./images/partners/dhl.png",
+  "./images/partners/ebay.png",
+  "./images/partners/imdb.png",
+  "./images/partners/apple-pay.png",
+  "./images/partners/dhl.png",
+  "./images/partners/ebay.png",
 ];
 
 const ReactMarquee = () => (

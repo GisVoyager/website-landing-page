@@ -3,11 +3,11 @@ import React from "react";
 function Footer() {
   // Social media icons data
   const socialMediaIcons = [
-    { name: "Facebook", src: "/images/social/facebook.png" },
-    { name: "WhatsApp", src: "/images/social/whatsapp.png" },
-    { name: "Twitter", src: "/images/social/twitter.png" },
-    { name: "Instagram", src: "/images/social/instagram.png" },
-    { name: "YouTube", src: "/images/social/youtube.png" },
+    { name: "Facebook", src: "./images/social/facebook.png" },
+    { name: "WhatsApp", src: "./images/social/whatsapp.png" },
+    { name: "Twitter", src: "./images/social/twitter.png" },
+    { name: "Instagram", src: "./images/social/instagram.png" },
+    { name: "YouTube", src: "./images/social/youtube.png" },
   ];
 
   // Navigation links data
@@ -33,7 +33,7 @@ function Footer() {
           {/* First column */}
           <div>
             <div className="flex flex-col items-center mb-4">
-              <img src="/images/partners/imdb.png" alt="Company Logo" className="h-16 w-auto mr-2" />
+              <img src="./images/partners/imdb.png" alt="Company Logo" className="h-16 w-auto mr-2" />
               <h2 className="text-3xl font-bold">Company Name</h2>
             </div>
             <div className="flex items-center justify-center">

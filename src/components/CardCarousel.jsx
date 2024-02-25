@@ -8,27 +8,27 @@ import 'swiper/css/pagination';
 
 const slidesData = [
     {
-      imageSrc: "/images/passport.png",
+      imageSrc: "./images/passport.png",
       title: "Visa Application",
       description: "Learn More>>"
     },
     {
-      imageSrc: "/images/student.png",
+      imageSrc: "./images/student.png",
       title: "Scholarship Guidance",
       description: "Learn More>>"
     },
     {
-      imageSrc: "/images/school.png",
+      imageSrc: "./images/school.png",
       title: "University Admissions",
       description: "Learn More>>"
     },
     {
-      imageSrc: "/images/conversation.png",
+      imageSrc: "./images/conversation.png",
       title: "Educational Counselling",
       description: "Learn More>>"
     },
     {
-      imageSrc: "/images/exam.png",
+      imageSrc: "./images/exam.png",
       title: "Test Preparation",
       description: "Learn More>>"
     },

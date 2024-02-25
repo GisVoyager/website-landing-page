@@ -8,7 +8,7 @@ function FirstRow() {
         <div 
           className="max-w-screen bg-cover bg-center relative py-24"
           style={{
-            backgroundImage: 'url("/images/university-colleagues-talking-library.jpg")',
+            backgroundImage: 'url("./images/university-colleagues-talking-library.jpg")',
             backgroundSize: 'cover',
             backgroundRepeat: 'no-repeat',
             backgroundPosition: 'center',
@@ -27,7 +27,7 @@ function FirstRow() {
             ]}
               wrapper="span"
               speed={50}
-              style={{ fontSize: '2em', 
+              style={{ 
               display: 'inline-block', // Assuming 'font-oswald' corresponds to the 'Oswald' font family
               fontSize: '3rem', // Equivalent to 'text-5xl'
               fontWeight: 'bold',
